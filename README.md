@@ -1,3 +1,5 @@
+This repository is used for creating social media headers using the simple, already provided HTML & CSS markup.
+
 ![06](https://github.com/BlueWay307/modren-navHeaders/assets/139136417/b08f538a-3907-4ce2-84eb-74d0c0aa5611)
 ![05](https://github.com/BlueWay307/modren-navHeaders/assets/139136417/af1bae73-2cb8-4e25-8dc0-700923aae71f)
 ![04](https://github.com/BlueWay307/modren-navHeaders/assets/139136417/b1cca807-abb0-44d7-8902-c713a7fcb993)
